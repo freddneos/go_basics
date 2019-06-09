@@ -14,8 +14,7 @@
 - Pointers - HOT
 - Closures
 - Structs - HOT
-  
-[] Interfaces - WIP
+- [ ] Interfaces - WIP
 
 ### Feel free to contribute
 
